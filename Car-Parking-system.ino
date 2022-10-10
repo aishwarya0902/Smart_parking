@@ -19,6 +19,7 @@ int S1=0, S2=0, S3=0, S4=0, S5=0, S6=0;
 int flag1=0, flag2=0; 
 int slot = 6;  
 
+
 void setup(){
 Serial.begin(9600);
 
